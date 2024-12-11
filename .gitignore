@@ -1,0 +1,35 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the build process
+main
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Dependency directories
+vendor/
+
+# Go modules
+go.sum
+go.mod
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Docker specific files
+Dockerfile
+
+# OS generated files
+.DS_Store
+Thumbs.db
