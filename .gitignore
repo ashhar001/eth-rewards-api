@@ -1,5 +1,8 @@
 # Environment variables
 .env
+# Ignore the .env file containing environment variables
+.env
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
